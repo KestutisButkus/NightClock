@@ -1,0 +1,6 @@
+{
+  "name": "Naktinis Laikrodis",
+  "description": "Skaitmeninis laikrodis per visą horizontalų ekraną su prislopintu baterijos indikatoriumi, spalvų ir šriftų pasirinkimais bei naktiniu režimu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

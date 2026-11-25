@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clock Outer Stand/Base -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M38,76 h32 c2,0 3,1 3,3 v1 c0,1 -1,2 -3,2 H38 c-2,0 -3,-1 -3,-2 v-1 c0,-2 1,-3 3,-3 Z" />
+
+    <!-- Clock Outer Body -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M31,34 h46 c4.4,0 8,3.6 8,8 v24 c0,4.4 -3.6,8 -8,8 H31 c-4.4,0 -8,-3.6 -8,-8 V42 c0,-4.4 3.6,-8 8,-8 Z" />
+
+    <!-- Digital Screen Glass Background -->
+    <path
+        android:fillColor="#030712"
+        android:pathData="M31,37 h46 c2.8,0 5,2.2 5,5 v18 c0,2.8 -2.2,5 -5,5 H31 c-2.8,0 -5,-2.2 -5,-5 V42 c0,-2.8 2.2,-5 5,-5 Z" />
+
+    <!-- Digit '1' -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M35,46 h3.5 v14 H35 Z" />
+
+    <!-- Digit '2' -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M42,46 h8 v3.5 h-4.5 v2 h4.5 v8.5 H42 v-3.5 h4.5 v-2 H42 Z" />
+
+    <!-- Colon ':' -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M53,48.5 h2.5 v2.5 H53 Z M53,55 h2.5 v2.5 H53 Z" />
+
+    <!-- Digit '0' (first zero) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M58,46 h8 v14 h-8 Z M61.5,49.5 h1 v7 h-1 Z" />
+
+    <!-- Digit '0' (second zero) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M69,46 h8 v14 h-8 Z M72.5,49.5 h1 v7 h-1 Z" />
+
+    <!-- Subtle Battery Icon on Bottom Right of screen -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M71,62 h5 v2.5 h-5 Z M76,62.8 h0.8 v1 h-0.8 Z" />
+</vector>
